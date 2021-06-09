@@ -1,10 +1,12 @@
 # hello_world
 Repositório para aula de  **git** e **github**
 
-## teste em markdowm
-Este é um parágrafo. __Itálico__
+## Obejetivos
 
-Este é um parágrafo.
+* Aprender a clonar o repositório;
+* Aprender a clonar os arquivos para trackear;
+* Aprender a fazer o commit;
+* Aprender a enviar as modificações para o github
+* Aprender a baixar as modificações.
 
-isto é um parágrafo.
-
+## Criar versão de arquivos modificados/incluídos/deletados
