@@ -27,3 +27,18 @@ Comando para enviar a versão criada para o github
 ```git
 git push origin main
 ``` 
+# Clonar repositório do github
+
+```git
+git clone link-do-repositório
+```
+Clonar com um apelido para a pasta, se o apelido tiver espaço em branco usar aspas
+```git
+git clone link-do-repositório apelido
+```
+
+
+# ver alterações no repositório
+```git
+git status
+```
